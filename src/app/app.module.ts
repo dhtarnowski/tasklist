@@ -5,7 +5,7 @@ import { HttpClientModule} from '@angular/common/http'
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { ButtomComponent } from './components/buttom/buttom.component';
-import { TaskComponent } from './components/task/task.component';
+import { TasksComponent } from './components/tasks/tasks.component';
 import { TaskItemComponent } from './components/task-item/task-item.component';
 
 
@@ -14,7 +14,7 @@ import { TaskItemComponent } from './components/task-item/task-item.component';
     AppComponent,
     HeaderComponent,
     ButtomComponent,
-    TaskComponent,
+    TasksComponent,
     TaskItemComponent
   ],
   imports: [
