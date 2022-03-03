@@ -25,7 +25,7 @@ body{
 
 .btn {
     display: inline-block;
-    background: #000;
+    background: rgb(25, 0, 138);
     color: #fff;
     border: none;
     padding: 10px 20px;

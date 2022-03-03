@@ -4,19 +4,19 @@
       "id": 1,
       "text": "Estudiar programación",
       "day": "Febrero 28 las 8:00",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 2,
       "text": "Curso de Coaching",
       "day": "Febrero 28 a las 11:00",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 3,
       "text": "Armar prototipo de programación",
       "day": "Febrero 28 a las 14:00hs",
-      "reminder": false
+      "reminder": true
     }
   ]
 }
