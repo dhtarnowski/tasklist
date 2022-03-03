@@ -17,6 +17,12 @@
       "text": "Armar prototipo de programación",
       "day": "Febrero 28 a las 14:00hs",
       "reminder": true
+    },
+    {
+      "text": "hacer la cena",
+      "day": "Marzo 3, a las 20hs",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
