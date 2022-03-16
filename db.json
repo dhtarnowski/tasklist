@@ -19,10 +19,10 @@
       "reminder": true
     },
     {
-      "text": "hacer la cena",
-      "day": "Marzo 3, a las 20hs",
-      "reminder": false,
-      "id": 4
+      "text": "Prueba de  programación",
+      "day": "hoy 23hs",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
